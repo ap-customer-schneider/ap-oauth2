@@ -1,7 +1,7 @@
 {
   "name": "ap-oauth2",
   "version": "0.0.1",
-  "description": "AnyPresence passport-http strategy for Passport.js",
+  "description": "AnyPresence oauth strategy for Passport.js",
   "main": "lib/index.js",
   "scripts": {
     "test": "NODE_ENV=test mocha test --recursive"

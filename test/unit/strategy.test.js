@@ -1,5 +1,5 @@
 var assert      = require('chai').assert,
-    Strategy    = require('../../lib/strategy');
+    Strategy    = require('../../');
 
 function noop() {}
 
