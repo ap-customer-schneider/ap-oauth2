@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/AnyPresence/ap-oauth2"
+    "url": "git://github.com/ap-customer-schneider/ap-oauth2"
   },
   "author": "AnyPresence",
   "readmeFilename": "README.md",
